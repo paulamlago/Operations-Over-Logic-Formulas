@@ -1,4 +1,4 @@
-# Operations-Over-Logical-Formulas
+# Operations Over Logical Formulas
 
 This program, developed in Haskell, computes some operations over a given propositional formula, some features are:
   - Checks if it's a Tautology
